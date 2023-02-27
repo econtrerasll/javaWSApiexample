@@ -16,3 +16,6 @@ Delete: /Usuarios (Delete)
 
 para mas informacion consultar Swagger: 
 http://localhost:8080/swagger-ui/index.html
+
+Las respuestas relacionadas a SQL estan en el archivo preguntas.SQL
+\src\main\resources\static\preguntas.SQL
